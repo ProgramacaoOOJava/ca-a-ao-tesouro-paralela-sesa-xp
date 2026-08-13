@@ -50,5 +50,5 @@ public abstract class Explorador implements Runnable  {
     // Getters para acesso aos atributos encapsulados
 
 
-}
+
 
