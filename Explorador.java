@@ -46,9 +46,3 @@ public abstract class Explorador implements Runnable  {
     public void exibirStatus() {
 
     }
-    
-    // Getters para acesso aos atributos encapsulados
-
-
-
-
